@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "841529218477",
+    "project_id": "csi-task-5",
+    "storage_bucket": "csi-task-5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841529218477:android:268572f702b829078dbd24",
+        "android_client_info": {
+          "package_name": "com.example.assign5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9Lmb9AoKBWrWI-MfM3zjid83bxEVH2fA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
